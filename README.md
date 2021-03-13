@@ -1,5 +1,5 @@
 - Hello, I’m Archana Gandhi 🌺
-- I love to learn, code and design Web Apps 🚀
+- I love to learn, design, code and build Web Apps 🚀
 - I am currently doing 3rd year in CSE 🏁
 - I am a freelance graphic designer (I love sketching) 🧡
 
