@@ -10,7 +10,12 @@
  
  My Portfolio Website : https://archanagandhi.netlify.app/
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=archanagandhi&show_icons=true&theme=algolia)
+ <a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archanagandhi&show_icons=true&include_all_commits=true&theme=algolia" alt="Archana's github stats"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanagandhi&layout=compact&theme=algolia" />
+</a>
 
 <!---
 archanagandhi/archanagandhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
