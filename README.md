@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archanagandhi&show_icons=true&include_all_commits=true&count_private=true&theme=algolia" alt="Archana's github stats" />
 </a>
 <a href="https://github.com/archanagandhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanagandhi&layout=compact&count_private=true&theme=algolia"/>
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archanagandhi&layout=compact&card_width=230&theme=algolia"/>
 </a>
 
 <!---
