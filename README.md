@@ -4,22 +4,16 @@
 - I am currently pursuing senior year in CSE 🏁
 - Fun fact: I do Art ❤
 
-<br>
-
-📕 &nbsp;**Recent Blog**
+### 📕 Recent Blog
 <!-- BLOG-POST-LIST:START -->
 - [My first hacktoberfest experience 2021!](https://dev.to/archanagandhi/my-first-hacktoberfest-experience-2021--39po)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+### 🔗 Connect with me
+[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>](https://dev.to/archanagandhi)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/archana-gandhi-04a27b184/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@archanagandhi17)
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://dev.to/archanagandhi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74424757/142349248-cf18b091-bf45-4111-85f2-e59daef5319c.png" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/archana-gandhi-04a27b184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://medium.com/@archanagandhi17" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74424757/142349302-0bd25587-aebe-428f-b3fa-25b476eb83ab.png" height="30" width="40" /></a>
-
- <br>
  <br>
  
  ![](https://visitor-badge.laobi.icu/badge?page_id=archanagandhi)
