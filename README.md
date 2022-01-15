@@ -7,6 +7,7 @@
 ### 📕 Recent Blog
 <!-- BLOG-POST-LIST:START -->
 - [My first hacktoberfest experience 2021!](https://dev.to/archanagandhi/my-first-hacktoberfest-experience-2021--39po)
+- [Let's deploy in netlify for free](https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me
